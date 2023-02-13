@@ -1,0 +1,11 @@
+nav{
+    background-color: aqua;
+
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo{
+    font-size: 40px;
+}
